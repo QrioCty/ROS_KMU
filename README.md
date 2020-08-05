@@ -45,3 +45,32 @@
 	011. GAZEBO-v27-20200724_050003.pdf
 	012. TF-v6-20200724_050243.pdf
 	```
+
+### [2020-07-24] URDF
+
+* [Pan/Tilt URDF](https://pinkwink.kr/1007)
+* [URDF 예제](https://github.com/PinkWink/urdf_exam)
+
+### [2020-07-28] 로봇관련 강의자료 (김정엽 교수)
+
+	```
+	013.1강_관절운동해석.pdf
+	014.2강_구동기.pdf
+	015.3강_하모닉감속기.pdf
+	016.4강_회전관절메커니즘설계.pdf
+	```
+
+### [2020-07-29] 강의자료 (민형기 박사)
+
+	```
+	017.ROS 패키지에서 영상처리 opencv-app-v3-20200729_034036.pdf	
+	018.OpenCV-v11-20200729_041311.pdf
+	019.Jetbot install image.pdf
+	020.Jetbot 시작-v2-20200804_153304.pdf
+	021.ROS YOLO-v12-20200805_020544.pdf
+	```
+
+### [2020-08-05] Jetbot 준비
+
+* 참고: [Jetbot 하루에 입문하기](https://robertchoi.gitbook.io/jetbot/1)
+
