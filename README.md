@@ -74,3 +74,13 @@
 
 * 참고: [Jetbot 하루에 입문하기](https://robertchoi.gitbook.io/jetbot/1)
 
+### [2020-08-06] 강의내용
+
+* [Object Following](https://robertchoi.gitbook.io/jetbot/4)
+  * [ssd_mobilenet_v2_coco.engine](https://drive.google.com/open?id=1KjlDMRD8uhgQmQK-nC2CZGHFTbq4qQQH)을 `object_following` 폴더에 넣어주어야 함.
+* Teleoperation
+
+	```
+	022.Jetbot 잘 데리고 놀아보자-v11-20200806_154319.pdf
+	```
+
