@@ -51,8 +51,9 @@
 * [Pan/Tilt URDF](https://pinkwink.kr/1007)
 * [URDF 예제](https://github.com/PinkWink/urdf_exam)
 
-### [2020-07-28] 로봇관련 강의자료 (김정엽 교수)
+### [2020-07-28]
 
+* 로봇관련 강의자료 (김정엽 교수)
 	```
 	013.1강_관절운동해석.pdf
 	014.2강_구동기.pdf
@@ -60,7 +61,9 @@
 	016.4강_회전관절메커니즘설계.pdf
 	```
 
-### [2020-07-29] 강의자료 (민형기 박사)
+### [2020-07-29]
+
+* 추가강의자료 (민형기 박사)
 
 	```
 	017.ROS 패키지에서 영상처리 opencv-app-v3-20200729_034036.pdf	
@@ -80,6 +83,7 @@
   * [ssd_mobilenet_v2_coco.engine](https://drive.google.com/open?id=1KjlDMRD8uhgQmQK-nC2CZGHFTbq4qQQH)을 `object_following` 폴더에 넣어주어야 함.
 * Teleoperation
 
+* 추가강의자료 (민형기 박사)
 	```
 	022.Jetbot 잘 데리고 놀아보자-v11-20200806_154319.pdf
 	```
